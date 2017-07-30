@@ -1,3 +1,5 @@
+## Starting Writing MinMax Code!!!
+
 rows = 'ABCDEFGHI'
 cols = '123456789'
 fullstring = '123456789'
